@@ -174,4 +174,4 @@ npx wrangler deploy
 如果这个项目对你有帮助，请给个 ⭐️ 支持一下！
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=lza6/tldrly-2api-cfwork&type=date&legend=top-left)](https://www.star-history.com/#lza6/tldrly-2api-cfwork&type=date&legend=top-left)
+
